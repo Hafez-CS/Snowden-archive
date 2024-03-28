@@ -1,5 +1,7 @@
 # The Snowden Archive
 
+![Monty Python](https://media.opennews.org/cache/e6/07/e6076b65164d71e4a50e69010127db96.jpg)
+
 This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world.
 
 If you notice something is missing or wrong, please file an issue or tweet at [@iamcryptoki](https://twitter.com/iamcryptoki).
